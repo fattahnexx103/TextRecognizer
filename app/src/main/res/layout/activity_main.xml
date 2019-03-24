@@ -43,7 +43,6 @@
                         android:id="@+id/result"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:hint="Click + button to add image"
                         android:background="@null"
                         android:textColor="#000"
                         android:padding="5dp"
